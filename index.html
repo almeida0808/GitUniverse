@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Git Universo</title>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="./JS/main.js" type="module"></script>
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <div id="logo"><img src="assets/UniverseGit.png" alt="" /></div>
+
+        <div id="search">
+          <input
+            class="inputSearch"
+            type="text"
+            placeholder="Digite o Github username que quer favoritar"
+          />
+          <button class="buttonSearch">
+            <i class="ph ph-alien"></i>
+            favoritar
+          </button>
+        </div>
+      </header>
+      <table>
+        <thead>
+          <tr>
+            <th>Usuário</th>
+            <th>Repositorio</th>
+            <th>Seguidores</th>
+            <th>Ação</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+        </tbody>
+      </table>
+
+      <section class="notfavorites ">
+        <div id="logoNot">
+          <img src="assets/Estrela.svg" alt="" />
+          <p>Nenhum favorito ainda</p>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
