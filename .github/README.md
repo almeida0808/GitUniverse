@@ -1,7 +1,12 @@
 
-https://github.com/almeida0808/GitUniverse/assets/144072612/43eda4c5-ea7d-4a67-9f37-2e6e0efd6162
 ﻿﻿﻿<h1 align="center"> Git Universe </h1>
-https://github.com/almeida0808/GitUniverse/assets/144072612/518b5054-a01c-43fe-a0cf-4e119a0ebb4d
+
+
+
+https://github.com/almeida0808/GitUniverse/assets/144072612/da61a979-70fb-4c48-9da1-596ffe55a820
+
+
+
 
 <p align="center">
 Site desenvolvido por Lucas Almeida</p>
